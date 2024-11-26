@@ -8,5 +8,13 @@ Nguyen Tran Cao </br>
 
 Run the following command to bootstrap a new Django project: </br>
 ```
-django-admin startproject mysite QREvent
+django-admin startproject QREvent
+```
+Change directory to QREvent:
+```
+cd QREvent
+```
+Create application directory:
+```
+python manage.py startapp QREvent_app
 ```
