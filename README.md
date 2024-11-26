@@ -5,3 +5,8 @@ Tri Huynh Vo Duc </br>
 Tu Dong Thien </br>
 Hau Thang Quoc </br>
 Nguyen Tran Cao </br>
+
+Run the following command to bootstrap a new Django project: </br>
+```
+django-admin startproject mysite QREvent
+```
